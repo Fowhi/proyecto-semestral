@@ -1,0 +1,98 @@
+body {
+  background-image: url(https://i.pinimg.com/originals/7f/88/89/7f888975b43da1429032c3474f4f5541.png);
+  margin:0;
+  padding:0;
+}
+* {
+  color: rgb(209, 202, 202);
+  font-family: "Zen Dots", cursive;
+}
+
+a:visited,a,a:hover{
+  color: rgb(209, 202, 202)
+}
+
+.navegador__link {
+  display: inline-block;
+}
+
+#central{
+  padding-top: 15em;
+}
+
+#logo{
+    position: relative;
+}
+
+#logo__img {
+  height:8em;
+  position: relative;
+}
+
+#busqueda{
+    position:relative;
+    border:.1em solid white;
+    border-radius:5px;
+    margin:0;
+}
+.busqueda__buscador {
+  display:inline-block;
+  position:relative;
+  background: rgb(49, 46, 46);
+}
+
+#spacer{
+  padding-bottom: 20em;
+}
+
+footer{
+  background: rgba(0, 0, 0, 0.479);
+}
+
+.footer__link {
+  padding-top: 1em;
+  height: 5em;
+}
+
+#tb__misguias{
+  margin:5em auto;
+  background-color: rgba(59, 59, 59, 0.596);
+}
+
+#tb__misguias td{
+  padding:1em;
+  padding-bottom:.5;
+  border:solid rgba(245, 245, 245, 0.438);
+}
+.pj__img{
+  border-radius: 5px;
+}
+
+#div-sett{
+  background-color: rgba(0, 0, 0, 0.527);
+  z-index:100;
+}
+
+h1{
+  margin-left:5%;
+}
+.tit2{
+  padding-left:20%;
+}
+
+#tab-hab{
+  margin:auto;
+  background-color: rgba(114, 114, 114, 0.178);
+}
+
+#tab-hab td{
+  border:solid gray;
+  padding:.3em;
+}
+
+.tab-run{
+  margin:auto;
+
+}
+
+
